@@ -1,0 +1,57 @@
+﻿  glad.c
+  main.cpp
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(653,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(767,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(873,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(911,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(406,37): warning C4101: 'rotateXMatrix2': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(338,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(406,99): warning C4101: 'model2': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(406,85): warning C4101: 'scaleMatrix2': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(400,69): warning C4101: 'rotateZMatrix1': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(338,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(406,69): warning C4101: 'rotateZMatrix2': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(400,37): warning C4101: 'rotateXMatrix1': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(400,85): warning C4101: 'scaleMatrix1': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(400,99): warning C4101: 'model1': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(406,53): warning C4101: 'rotateYMatrix2': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1335,68): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1335,98): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1335,83): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1438,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1438,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1438,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1538,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1538,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1538,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1637,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1637,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1637,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1666,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1666,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1666,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1737,74): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1738,74): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1739,74): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1740,74): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1741,74): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1742,74): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1743,70): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1744,70): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1745,70): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1746,70): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1747,70): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1748,70): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1798,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1803,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1808,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1813,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1818,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1823,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1828,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1833,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1838,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1843,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1848,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\4.2\Graphics\Lab2_with_assignment\3D\main.cpp(1853,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  3D.vcxproj -> E:\4.2\Graphics\Lab2_with_assignment\3D\x64\Debug\3D.exe
